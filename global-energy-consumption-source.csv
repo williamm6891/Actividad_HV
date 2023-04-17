@@ -1,9 +1,9 @@
-Entity,Code,Year,"Other renewables (TWh, substituted energy)","Biofuels","Solar (TWh, substituted energy)","Coal (TWh, substituted energy)","Gas (TWh, substituted energy)","Oil","Wind (TWh, substituted energy)","Nuclear (TWh, substituted energy)","Hydropower (TWh, substituted energy)","Traditional biomass (TWh, substituted energy)"
-World,OWID_WRL,1890,0,0,0,3856,33,89,0,0,38.88889,6667
-World,OWID_WRL,1900,0,0,0,5728,64,181,0,0,47.22222,6111
-World,OWID_WRL,1910,0,0,0,8656,142,397,0,0,91.666664,6389
-World,OWID_WRL,1920,0,0,0,9833,233,889,0,0,177.77777,6944
-World,OWID_WRL,1930,0,0,0,10125,603,1756,0,0,363.8889,7222
-World,OWID_WRL,1940,0,0,0,11586,875,2653,0,0,533.3333,7222
-World,OWID_WRL,1950,0,0,0,12603,2092,5444,0,0,925,7500
-World,OWID_WRL,1960,0,0,0,15442,4472,11097,0,0,1913.8889,8889
+Entity,Year,Coal,Gas ,Oil
+World,1890,3856,33,89
+World,1900,5728,64,181
+World,1910,8656,142,397
+World,1920,9833,233,889
+World,1930,10125,603,1756
+World,1940,11586,875,2653
+World,1950,12603,2092,5444
+World,1960,15442,4472,11097
